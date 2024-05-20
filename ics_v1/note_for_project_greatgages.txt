@@ -1,0 +1,5 @@
+link_code = greategages_link.py
+not call category not come
+data_code = greategages_data.py
+
+work on link spider 
